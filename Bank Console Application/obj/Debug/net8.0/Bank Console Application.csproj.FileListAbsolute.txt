@@ -12,3 +12,11 @@ C:\Users\Dell\Desktop\Bank Console Application\Bank Console Application\obj\Debu
 C:\Users\Dell\Desktop\Bank Console Application\Bank Console Application\obj\Debug\net8.0\Bank Console Application.pdb
 C:\Users\Dell\Desktop\Bank Console Application\Bank Console Application\obj\Debug\net8.0\Bank Console Application.genruntimeconfig.cache
 C:\Users\Dell\Desktop\Bank Console Application\Bank Console Application\obj\Debug\net8.0\ref\Bank Console Application.dll
+E:\projects\Bank Console Application\Bank Console Application\obj\Debug\net8.0\Bank Console Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Bank Console Application\Bank Console Application\obj\Debug\net8.0\Bank Console Application.AssemblyInfoInputs.cache
+E:\projects\Bank Console Application\Bank Console Application\obj\Debug\net8.0\Bank Console Application.AssemblyInfo.cs
+E:\projects\Bank Console Application\Bank Console Application\obj\Debug\net8.0\Bank Console Application.csproj.CoreCompileInputs.cache
+E:\projects\Bank Console Application\Bank Console Application\obj\Debug\net8.0\Bank Console Application.sourcelink.json
+E:\projects\Bank Console Application\Bank Console Application\obj\Debug\net8.0\Bank Console Application.dll
+E:\projects\Bank Console Application\Bank Console Application\obj\Debug\net8.0\refint\Bank Console Application.dll
+E:\projects\Bank Console Application\Bank Console Application\obj\Debug\net8.0\Bank Console Application.pdb

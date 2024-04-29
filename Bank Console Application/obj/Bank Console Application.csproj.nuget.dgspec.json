@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\Bank Console Application\\Bank Console Application\\Bank Console Application.csproj": {}
+    "E:\\projects\\Bank Console Application\\Bank Console Application\\Bank Console Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\Bank Console Application\\Bank Console Application\\Bank Console Application.csproj": {
+    "E:\\projects\\Bank Console Application\\Bank Console Application\\Bank Console Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Bank Console Application\\Bank Console Application\\Bank Console Application.csproj",
+        "projectUniqueName": "E:\\projects\\Bank Console Application\\Bank Console Application\\Bank Console Application.csproj",
         "projectName": "Bank Console Application",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\Bank Console Application\\Bank Console Application\\Bank Console Application.csproj",
+        "projectPath": "E:\\projects\\Bank Console Application\\Bank Console Application\\Bank Console Application.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\Bank Console Application\\Bank Console Application\\obj\\",
+        "outputPath": "E:\\projects\\Bank Console Application\\Bank Console Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
