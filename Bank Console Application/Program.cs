@@ -187,8 +187,10 @@ namespace Bank_Console_Application
                 }
 
                 Console.WriteLine("Error: Account holder name must be alphabetic and at least four characters long.");
-            } 
-          
+            }
+            while (true);
+
+            return accountHolder;
         }
 
         private static bool IsAlphabeticWithSpaces(string input)
